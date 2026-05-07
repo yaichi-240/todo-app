@@ -43,7 +43,7 @@ export default defineConfig([
 ])
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-plugin-react-dom).
 
 ```js
 // eslint.config.js
@@ -71,3 +71,9 @@ export default defineConfig([
   },
 ])
 ```
+
+## Access the Application
+
+You can access the deployed application using this URL:
+
+[https://yaichi-240.github.io/todo-app](https://yaichi-240.github.io/todo-app)
